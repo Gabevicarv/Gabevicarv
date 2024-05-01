@@ -1,17 +1,20 @@
 <!-- Imagem de Perfil -->
 <div align="center">
-  <img src="images/sua-foto.jpg" alt="Foto de Perfil" style="border-radius: 50%; width: 150px;">
+  <img src="images/sua-foto.jpg" alt="Foto de Perfil" style="border-radius: 50%; width: 220px; object-fit: cover;">
 </div>
 
 <!-- Sobre -->
 <div align="center">
   <h1>Gabriel</h1>
-  <p><strong>Sobre mim:</strong></p>
+  <p><strong>Sobre:</strong></p>
+  <p></p>
+  <p></p>
+  <p></p>
 </div>
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Pronomes-ele%2Fdele-brightgreen?style=for-the-badge" alt="Pronomes">
+  <img src="https://img.shields.io/badge/Pronomes-ele%2Fdele-brightgreen?style=for-the-badge" alt="Pronomes"><br>
   <img src="https://img.shields.io/badge/Localização-SÃO%20PAULO%2C%20BRAZIL-blue?style=for-the-badge" alt="Localização">
 </p>
 
@@ -20,9 +23,11 @@
   <h2>💻 Interesses</h2>
 </div>
 <ul>
-  <li>Interesse 1</li>
-  <li>Interesse 2</li>
-  <li>Interesse 3</li>
+  <li>Desenvolvimento Web</li>
+  <li>Design</li>
+  <li>Fotografia</li>
+  <li>Linux</li>
+  <li>CyberSec</li>
 </ul>
 
 <!-- Seção de Projetos Atuais -->
@@ -31,10 +36,10 @@
 </div>
 <ul>
   <li>
-    <a href="link-do-projeto">Projeto 1</a> - Breve descrição do projeto 1
+    <a href="link-do-projeto">Projeto 1</a> - Um sistema básico contábil para a minha namorada, com o objetivo de economizar papel.
   </li>
   <li>
-    <a href="link-do-projeto">Projeto 2</a> - Breve descrição do projeto 2
+    <a href="link-do-projeto">Projeto 2</a> - Automação de processos, no momento, aguardo o retorno do PO.
   </li>
 </ul>
 
@@ -44,13 +49,13 @@
 </div>
 <ul>
   <li>
-    <input type="checkbox" disabled> Meta 1
+    <input type="checkbox" disabled> Meta 1 - Me aprimorar ao máximo na minha stack.
   </li>
   <li>
-    <input type="checkbox" checked disabled> Meta 2
+    <input type="checkbox" checked disabled> Meta 2 - Conseguir terminar todos os projetos para portifólio.
   </li>
   <li>
-    <input type="checkbox" disabled> Meta 3
+    <input type="checkbox" disabled> Meta 3 - Criar o hábito de utilizar diáriamente o Git para o meu portifólio.
   </li>
 </ul>
 
@@ -59,10 +64,14 @@
   <h2>🛠️ Habilidades Técnicas</h2>
 </div>
 <p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Html5" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" alt="Nextjs" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Bootstrap" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash" width="40" height="40" />
 </p>
 
 <!-- Seção de Contatos -->

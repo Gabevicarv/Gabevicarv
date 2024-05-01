@@ -12,7 +12,7 @@
   <p></p>
 </div>
 <!-- Badges -->
-  <img src="https://img.shields.io/badge/Pronomes-ele%2Fdele-brightgreen?style=for-the-badge" alt="Pronomes"><br>
+  <img src="https://img.shields.io/badge/Pronomes-ele%2Fdele-brightgreen?style=for-the-badge" alt="Pronomes">
   <img src="https://img.shields.io/badge/Localização-SÃO%20PAULO%2C%20BRAZIL-blue?style=for-the-badge" alt="Localização">
 </div>
 

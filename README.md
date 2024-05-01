@@ -1,22 +1,20 @@
 <!-- Imagem de Perfil -->
-<div align="center">
+<div>
   <img src="images/sua-foto.jpg" alt="Foto de Perfil" style="border-radius: 50%; width: 220px; object-fit: cover;">
-  <h1>Gabriel</h1>
 </div>
+  <h2 align="center">Gabriel Vieira Carvalho</h2>
 
 <!-- Sobre -->
+<h2 align="center">Sobre:</h2>
 <div align="center">
-  <p><strong>Sobre:</strong></p>
   <p></p>
   <p></p>
   <p></p>
 </div>
-
 <!-- Badges -->
-<p align="center">
   <img src="https://img.shields.io/badge/Pronomes-ele%2Fdele-brightgreen?style=for-the-badge" alt="Pronomes"><br>
   <img src="https://img.shields.io/badge/Localização-SÃO%20PAULO%2C%20BRAZIL-blue?style=for-the-badge" alt="Localização">
-</p>
+</div>
 
 <!-- Seção de Interesses -->
 <div align="center">
@@ -55,12 +53,11 @@
     <input type="checkbox" checked disabled> Meta 2 - Conseguir terminar todos os projetos para portifólio.
   </li>
   <li>
-    <input type="checkbox" disabled> Meta 3 - Criar o hábito de utilizar diáriamente o Git para o meu portifólio.
+    <input type="checkbox" disabled> Meta 3 - Criar o hábito de utilizar diariamente o Git para o meu portifólio.
   </li>
 </ul>
 
 <!-- Seção de Habilidades Técnicas -->
-<p align="center">
 <div align="center">
   <h2>🛠️ Habilidades Técnicas</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Html5" width="40" height="40" />
@@ -72,7 +69,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash" width="40" height="40" />
 </div>
-</p>
 
 <!-- Seção de Contatos -->
 <div align="center">

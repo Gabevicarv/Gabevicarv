@@ -1,11 +1,11 @@
 <!-- Imagem de Perfil -->
 <div align="center">
   <img src="images/sua-foto.jpg" alt="Foto de Perfil" style="border-radius: 50%; width: 220px; object-fit: cover;">
+  <h1>Gabriel</h1>
 </div>
 
 <!-- Sobre -->
 <div align="center">
-  <h1>Gabriel</h1>
   <p><strong>Sobre:</strong></p>
   <p></p>
   <p></p>

@@ -6,7 +6,7 @@
 <!-- Sobre -->
 <div align="center">
   <h1>Gabriel</h1>
-  <p>Sobre:</p>
+  <p><strong>Sobre mim:</strong></p>
 </div>
 
 <!-- Badges -->

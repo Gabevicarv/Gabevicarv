@@ -60,18 +60,18 @@
 </ul>
 
 <!-- Seção de Habilidades Técnicas -->
+<p align="center">
 <div align="center">
   <h2>🛠️ Habilidades Técnicas</h2>
-</div>
-<p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Html5" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" alt="Nextjs" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Bootstrap" width="40" height="40" />
+  <img src="images/nextjs-plainWhite.svg" alt="Nextjs" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash" width="40" height="40" />
+</div>
 </p>
 
 <!-- Seção de Contatos -->
